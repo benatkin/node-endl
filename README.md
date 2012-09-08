@@ -17,6 +17,8 @@ process.stdout.write("Hello, world.");
 process.stdout.write(endl);
 ```
 
+It's like C++, but without the awksome operator overloading.
+
 # LICENSE
 
 Public Domain.
