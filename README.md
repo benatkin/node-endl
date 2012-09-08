@@ -19,6 +19,10 @@ process.stdout.write(endl);
 
 It's like C++, but without the awksome operator overloading.
 
+# TODO
+
+Support for CRLF terminated lines?
+
 # LICENSE
 
 Public Domain.

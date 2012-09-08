@@ -3,7 +3,7 @@
   "description": "endl from C++, ported to node",
   "keywords": ["acme", "trivial", "fully-tested"],
   "author": "Ben Atkin <ben@benatkin.com> (http://benatkin.com/)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/benatkin/node-endl.git"
